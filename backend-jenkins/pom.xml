@@ -12,7 +12,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>backend-jenkins</name>
     <description>Demo project for Spring Boot</description>
-    <packaging>war</packaging>
+
 
     <properties>
         <java.version>21</java.version>
@@ -51,7 +51,7 @@
     </dependencies>
 
     <build>
-        <finalName>backend-jenkins</finalName>
+   
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
